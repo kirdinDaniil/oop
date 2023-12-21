@@ -1,0 +1,22 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <EnablePackageVersionOverride>false</EnablePackageVersionOverride>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="coverlet.collector" Version="6.0.0" />
+    <PackageVersion Include="Crayon" Version="2.0.69" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.7.2" />
+    <PackageVersion Include="Npgsql" Version="7.0.6" />
+    <PackageVersion Include="SourceKit.Analyzers.Collections" Version="1.0.4" />
+    <PackageVersion Include="SourceKit.Analyzers.Enumerable" Version="1.0.4" />
+    <PackageVersion Include="SourceKit.Analyzers.MemberAccessibility" Version="1.0.4" />
+    <PackageVersion Include="SourceKit.Analyzers.Nullable" Version="1.0.4" />
+    <PackageVersion Include="SourceKit.Analyzers.Properties" Version="1.0.4" />
+    <PackageVersion Include="Spectre.Console" Version="0.48.1-preview.0.5" />
+    <PackageVersion Include="StyleCop.Analyzers" Version="1.2.0-beta.507" />
+    <PackageVersion Include="xunit" Version="2.5.0" />
+    <PackageVersion Include="xunit.runner.visualstudio" Version="2.5.0" />
+  </ItemGroup>
+</Project>
